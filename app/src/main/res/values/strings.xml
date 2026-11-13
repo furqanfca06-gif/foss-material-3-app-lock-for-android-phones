@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Lock</string>
+    <string name="accessibility_service_description">Detects when a selected app opens so App Lock can request your PIN or device biometric.</string>
+</resources>
